@@ -1,1 +1,0 @@
-This project  shows the timeline of evolution of mobile phones. so far i have completed the phase 1 that consists of only html. I used tags like article, figure, main, header tags etc.
